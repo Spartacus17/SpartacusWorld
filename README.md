@@ -1,1 +1,3 @@
 # SpartacusWorld
+Hey all,
+i recently created a this repository as a means to showcase my abiliites as a software developer in Test(SDET) after guidance from my seniors and colleagues. i have primarily worked with Selenium so just wanted to try out my hand in Playwright which i found exciting. This repo and the main file is still a work in progress and is in its nascent stage since prior to this, i have only worked on company projects and never heard of a public repo meant to showcase my talents. So please excuse the basic nature of the lone end to end test i have made as part of my public repo. I will update it from time to time so that it takes the shape of a full scaled out exemplary test framework.
